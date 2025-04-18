@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Alaman</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node**
 
 - 📫 How to reach me **alamanshaikha999@gmail.com**
 
